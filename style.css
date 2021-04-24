@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color:aqua;
+}
+
+img {
+    height: 400px;
+    width: 300px;
+    margin-left: 20px;
+}
+.divcls {
+color: white;
+}
